@@ -15,6 +15,9 @@ The build consists of a portable, battery-powered amplifier and a contact microp
 The project is suitable for DIY enthusiasts, audio technicians, music producers and anyone interested in experimenting with electronic sound.  
 
 https://hackaday.io/project/174681-squeal-scrape
+
 https://www.thingiverse.com/thing:4686760
+
 https://www.instructables.com/Squeal-Scrape/
+
 https://www.tinkercad.com/things/iCrDBGnJ5Q9-squeal-scrape-enclosure-v3
